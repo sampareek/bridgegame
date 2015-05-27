@@ -1172,7 +1172,7 @@
 			ShowCompartmentStereotypes 	TRUE
 			IncludeAttribute 	TRUE
 			IncludeOperation 	TRUE
-			location   	(512, 1184)
+			location   	(336, 1200)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -1184,7 +1184,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@36
-			    location   	(218, 1078)
+			    location   	(42, 1094)
 			    fill_color 	13434879
 			    nlines     	1
 			    max_width  	588
@@ -1196,7 +1196,7 @@
 			quidu      	"555CCEFE03C1"
 			compartment 	(object Compartment
 			    Parent_View 	@36
-			    location   	(218, 1139)
+			    location   	(42, 1155)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -1266,7 +1266,7 @@
 			ShowCompartmentStereotypes 	TRUE
 			IncludeAttribute 	TRUE
 			IncludeOperation 	TRUE
-			location   	(512, 464)
+			location   	(528, 672)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -1278,7 +1278,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@38
-			    location   	(187, 233)
+			    location   	(203, 441)
 			    fill_color 	13434879
 			    nlines     	1
 			    max_width  	650
@@ -1290,7 +1290,7 @@
 			quidu      	"555CCF3D0069"
 			compartment 	(object Compartment
 			    Parent_View 	@38
-			    location   	(187, 294)
+			    location   	(203, 502)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -1313,7 +1313,7 @@
 			ShowCompartmentStereotypes 	TRUE
 			IncludeAttribute 	TRUE
 			IncludeOperation 	TRUE
-			location   	(2704, 1280)
+			location   	(2752, 1312)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -1325,7 +1325,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@39
-			    location   	(2394, 1099)
+			    location   	(2442, 1131)
 			    fill_color 	13434879
 			    nlines     	1
 			    max_width  	620
@@ -1337,7 +1337,7 @@
 			quidu      	"555CDD6C01DB"
 			compartment 	(object Compartment
 			    Parent_View 	@39
-			    location   	(2394, 1160)
+			    location   	(2442, 1192)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -1360,7 +1360,7 @@
 			ShowCompartmentStereotypes 	TRUE
 			IncludeAttribute 	TRUE
 			IncludeOperation 	TRUE
-			location   	(1312, 304)
+			location   	(1328, 464)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -1372,7 +1372,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@40
-			    location   	(1039, 73)
+			    location   	(1055, 233)
 			    fill_color 	13434879
 			    nlines     	1
 			    max_width  	546
@@ -1384,7 +1384,7 @@
 			quidu      	"555CCEE60093"
 			compartment 	(object Compartment
 			    Parent_View 	@40
-			    location   	(1039, 134)
+			    location   	(1055, 294)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -1404,7 +1404,7 @@
 			annotation 	8
 			autoResize 	TRUE)
 		    (object AssociationViewNew "$UNNAMED$13" @41
-			location   	(937, 378)
+			location   	(953, 560)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -1420,7 +1420,7 @@
 			roleview_list 	(list RoleViews
 			    (object RoleView "$UNNAMED$14" @42
 				Parent_View 	@41
-				location   	(233, -566)
+				location   	(249, -384)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"555CD3550094"
@@ -1429,7 +1429,7 @@
 				line_style 	0)
 			    (object RoleView "$UNNAMED$15" @43
 				Parent_View 	@41
-				location   	(233, -566)
+				location   	(249, -384)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"555CD3550096"
@@ -1440,7 +1440,7 @@
 			ShowCompartmentStereotypes 	TRUE
 			IncludeAttribute 	TRUE
 			IncludeOperation 	TRUE
-			location   	(1328, 1280)
+			location   	(1344, 1328)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -1452,7 +1452,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@44
-			    location   	(1091, 874)
+			    location   	(1107, 922)
 			    fill_color 	13434879
 			    nlines     	1
 			    max_width  	474
@@ -1464,7 +1464,7 @@
 			quidu      	"555CCEF002E5"
 			compartment 	(object Compartment
 			    Parent_View 	@44
-			    location   	(1091, 935)
+			    location   	(1107, 983)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -1484,7 +1484,7 @@
 			annotation 	8
 			autoResize 	TRUE)
 		    (object AssociationViewNew "$UNNAMED$28" @45
-			location   	(1979, 1280)
+			location   	(2011, 1320)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -1500,7 +1500,7 @@
 			roleview_list 	(list RoleViews
 			    (object RoleView "$UNNAMED$29" @46
 				Parent_View 	@45
-				location   	(-565, 544)
+				location   	(-533, 584)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"555CE19C023F"
@@ -1509,7 +1509,7 @@
 				line_style 	0)
 			    (object RoleView "$UNNAMED$30" @47
 				Parent_View 	@45
-				location   	(-565, 544)
+				location   	(-533, 584)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"555CE19C0241"
@@ -1517,7 +1517,7 @@
 				supplier   	@39
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$31" @48
-			location   	(1318, 704)
+			location   	(1334, 808)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -1533,7 +1533,7 @@
 			roleview_list 	(list RoleViews
 			    (object RoleView "$UNNAMED$32" @49
 				Parent_View 	@48
-				location   	(-378, -400)
+				location   	(-362, -296)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"555CE25B00C3"
@@ -1542,7 +1542,7 @@
 				line_style 	0)
 			    (object RoleView "$UNNAMED$33" @50
 				Parent_View 	@48
-				location   	(-378, -400)
+				location   	(-362, -296)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"555CE25B00C5"
@@ -1677,7 +1677,7 @@
 				supplier   	@37
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$16" @56
-			location   	(1677, 276)
+			location   	(1685, 368)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -1693,7 +1693,7 @@
 			roleview_list 	(list RoleViews
 			    (object RoleView "$UNNAMED$17" @57
 				Parent_View 	@56
-				location   	(189, 36)
+				location   	(197, 128)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"555CD3580279"
@@ -1702,7 +1702,7 @@
 				line_style 	0)
 			    (object RoleView "$UNNAMED$18" @58
 				Parent_View 	@56
-				location   	(189, 36)
+				location   	(197, 128)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"555CD358027B"
@@ -1710,7 +1710,7 @@
 				supplier   	@40
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$25" @59
-			location   	(1795, 704)
+			location   	(1808, 719)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -1726,7 +1726,7 @@
 			roleview_list 	(list RoleViews
 			    (object RoleView "$UNNAMED$26" @60
 				Parent_View 	@59
-				location   	(-29, -192)
+				location   	(-16, -177)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"555CD53001A4"
@@ -1735,7 +1735,7 @@
 				line_style 	0)
 			    (object RoleView "$UNNAMED$27" @61
 				Parent_View 	@59
-				location   	(-29, -192)
+				location   	(-16, -177)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"555CD53001A6"
